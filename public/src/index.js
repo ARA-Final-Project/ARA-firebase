@@ -13,5 +13,4 @@ window.customElements.define("view-about", ViewAbout);
 window.customElements.define("view-tabs", ViewTabs);
 window.customElements.define("tab-info", ViewTabInfo);
 window.customElements.define("tab-related", ViewTabRelated);
-
 window.customElements.define("view-contacts", ViewContacts);
